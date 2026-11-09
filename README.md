@@ -13,3 +13,5 @@ Sistema web full-stack desarrollado para el programa ADSO (SENA), orientado al s
 - `street-cleaners-backend/`: API REST y lógica del servidor.
 
 
+
+## 📌 Estado: En desarrollo activo
